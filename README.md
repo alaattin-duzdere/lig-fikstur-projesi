@@ -1,2 +1,2 @@
 # lig-fikstur-projesi
-takımlar.txt dosyasından okunan takımlardan, çift devreli lig usulüne uygun olarak 38 haftalık bir fikstür hazırlar.
+Proje, takımlar.txt dosyasından takımları okur eğer takım sayısı 19'dan farklı ise hata mesajı çıktısı verir.Takım sayısı uygun ise okunan takımlardan çift devreli lig usulüne uygun olarak 38 haftalık her hafta 9 maç olacak şekilde bir lig fikstürü yazar.
